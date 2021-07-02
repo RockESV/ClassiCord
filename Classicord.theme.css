@@ -1,13 +1,13 @@
 /**
  * @name ClassiCord
  * @author Rock#5429
- * @version 1.0
+ * @version 1.1
  * @description Restore the older, better Discord.
  * @source https://github.com/RockESV/ClassiCord
 */
 
 :root {
-  --version: "1.0";
+  --version: "1.1";
   --accent: 114,137,218;
   --font-display: var(--dplus-font-ui), 'Poppins', var(--dplus-font-ui-ru), 'Comfortaa', var(--dplus-font-ui-vi), 'Raleway', var(--dplus-font-ui-ja), 'Kosugi',  var(--dplus-font-ui-ko), 'Gothic A1', var(--dplus-font-ui-el), 'Commissioner', '-apple-system', 'Helvetica Neue', 'system-ui', 'Tahoma', 'Segoe UI', 'Helvetica', 'Whitney', sans-serif !important;
 }
