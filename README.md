@@ -1,5 +1,6 @@
 # ClassiCord
 A Discord theme that rolls back the (awful) rebranding from May 2021.
-Restores the old Discord logo and old Blurple.
+
+Restores the old Discord logo and old Blurple, otherwise looks exactly like stock Discord.
 
 Requires [BetterDiscord](https://betterdiscord.app/).
