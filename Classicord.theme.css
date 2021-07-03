@@ -13,9 +13,9 @@
 
 /* Adds ClassiCord theme info to the list at the bottom of User Settings. */
 .info-1VyQPT .colorMuted-HdFt4q:first-child:before {
-	text-transform: none;
+    text-transform: none;
     content: "ClassiCord v1.2 by Rock";
-	display: block;
+    display: block;
 }
 
 /* Replaces new Discord wordmark on the window title bar with the old wordmark. */
