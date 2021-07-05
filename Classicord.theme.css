@@ -1,20 +1,21 @@
 /**
  * @name ClassiCord
  * @author Rock#5429
- * @version 1.2
+ * @version 1.3
  * @description Restore the older, better Discord.
  * @source https://github.com/RockESV/ClassiCord
 */
 
 :root {
-    --brand-experiment: rgb(114,137,218) !important; /* Replaces all instances of new blurple with old (better) blurple. */
+    --brand-experiment: #7289da !important; /* Replaces all instances of new blurple with old (better) blurple. */
+    --brand-experiment-560: #7289da !important;
     --font-display: 'Whitney'; /* Replaces the new font on server names, category names, etc. with the old font. */
 }
 
 /* Adds ClassiCord theme info to the list at the bottom of User Settings. */
 .info-1VyQPT .colorMuted-HdFt4q:first-child:before {
     text-transform: none;
-    content: "ClassiCord v1.2 by Rock";
+    content: "ClassiCord v1.3 by Rock";
     display: block;
 }
 
