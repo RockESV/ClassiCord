@@ -8,6 +8,7 @@
 
 :root {
     --brand-experiment: #7289da !important; /* Replaces all instances of new blurple with old (better) blurple. */
+    --brand-experiment-500: #7289da !important;
     --brand-experiment-560: #7289da !important;
     --brand-experiment-600: #5b6eb3 !important;
     --font-display: 'Whitney'; /* Replaces the new font on server names, category names, etc. with the old font. */
